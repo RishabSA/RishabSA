@@ -25,10 +25,15 @@
 ### 🖥️ Projects
 <table>
 
-|Title | Technologies|
-|--|--|
-| [Minecraft-AI](https://github.com/drkostas/Minecraft-AI) | ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
-| [3D Semantic Segmentation](https://github.com/drkostas/3D-Semantic-Segmentation) | ![PyTorch](https://img.shields.io/badge/PyTorch-black?style=flat-square&logo=pytorch) ![OpenCV](https://img.shields.io/badge/OpenCV-black?style=flat-square&logo=opencv)|
+|Title|
+|--|
+| [TruthGuard](https://truthguard.app/) |
+| [Visualizing Neural Networks Learning](https://github.com/RishabSA/visualizing-learning-neural-networks) |
+| [Neural Style Transfer](https://colab.research.google.com/drive/1FLn333yCPvPvFRVI6ceC4SbPjhbIc6ay?usp=sharing) |
+| [Alphabet Image Predictions with a Neural Network](https://colab.research.google.com/drive/1p1kVAd_DoGgJPVwPsmsodoYQkvEfqcDO?usp=sharing) |
+| [Text Sentiment Analysis](https://github.com/RishabSA/sentiment_analysis) |
+| [Recognizing Doodles with a Neural Network](https://github.com/RishabSA/recog_doodles) |
+| [SaveMyTrip](https://neverfinite.com/savemytrip/) |
 </table>
 
 <details>
