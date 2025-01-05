@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://github.com/drkostas">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=1000&pause=400&vCenter=true&multiline=true&width=750&height=175&lines=Rishab+Alagharu;Student+%7C+Software+Engineer;Machine+Learning+%7C+Deep+Learning" alt="Typing SVG" /></a>
+<a href="https://github.com/rishabsa">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=1000&pause=400&vCenter=true&multiline=true&width=750&height=175&lines=Rishab+Alagharu;Student+%7C+Software+Engineer;Machine+Learning+%7C+Deep+Learning" alt="Typing SVG" />
 </a>
 <br/>
 
