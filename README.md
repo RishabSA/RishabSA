@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/rishabsa">
+<a href="https://github.com/RishabSA">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=1000&pause=400&vCenter=true&multiline=true&width=750&height=175&lines=Rishab+Alagharu;Student+%7C+Software+Engineer;Machine+Learning+%7C+Deep+Learning" alt="Typing SVG" />
 </a>
 <br/>
