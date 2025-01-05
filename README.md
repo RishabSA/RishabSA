@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://rishabalagharu.com/">
-    <img src="https://img.shields.io/badge/Website-gkos.dev-red?style=flat-square">
+    <img src="https://img.shields.io/badge/Website-rishabalagharu.com-red?style=flat-square">
 </a>  
 <a href="https://www.linkedin.com/in/rishab-alagharu/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
