@@ -36,6 +36,12 @@
 | [SaveMyTrip](https://neverfinite.com/savemytrip/) |
 </table>
 
+### 📄 Blog
+
+<a href="https://medium.com/@rishabalagharu">
+    <img src="https://img.shields.io/badge/Website-medium.com/@rishabalagharu-red?style=flat-square">
+</a>  
+
 <details>
 <summary>📈 My Github Stats 📈</summary>
 <br>
