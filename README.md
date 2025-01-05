@@ -28,7 +28,7 @@
 
 * 💻 Currently building Masked Image Modeling models for Remote Sensing data. 
 
-### 🖥️ Open-Source Projects
+### 🖥️ Projects
 <table>
 <tr><th>Machine Learning </th><th>PyPi Packages</th></tr>
 <tr><td>
