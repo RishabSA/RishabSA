@@ -28,6 +28,7 @@
 |Title|
 |--|
 | [TruthGuard](https://truthguard.app/) |
+| [ML Models Built from Scratch with Python](https://github.com/RishabSA/ML-models-from-scratch) |
 | [Visualizing Neural Networks Learning](https://github.com/RishabSA/visualizing-learning-neural-networks) |
 | [Neural Style Transfer](https://colab.research.google.com/drive/1FLn333yCPvPvFRVI6ceC4SbPjhbIc6ay?usp=sharing) |
 | [Alphabet Image Predictions with a Neural Network](https://colab.research.google.com/drive/1p1kVAd_DoGgJPVwPsmsodoYQkvEfqcDO?usp=sharing) |
