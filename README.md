@@ -32,7 +32,6 @@
 | [Neural Style Transfer](https://colab.research.google.com/drive/1FLn333yCPvPvFRVI6ceC4SbPjhbIc6ay?usp=sharing) |
 | [Alphabet Image Predictions with a Neural Network](https://colab.research.google.com/drive/1p1kVAd_DoGgJPVwPsmsodoYQkvEfqcDO?usp=sharing) |
 | [Text Sentiment Analysis](https://github.com/RishabSA/sentiment_analysis) |
-| [Recognizing Doodles with a Neural Network](https://github.com/RishabSA/recog_doodles) |
 | [SaveMyTrip](https://neverfinite.com/savemytrip/) |
 </table>
 
