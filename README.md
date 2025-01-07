@@ -31,7 +31,7 @@
 | [ML Models Built from Scratch with Python](https://github.com/RishabSA/ML-models-from-scratch) |
 | [Visualizing Neural Networks Learning](https://github.com/RishabSA/visualizing-learning-neural-networks) |
 | [Neural Style Transfer](https://github.com/RishabSA/neural-style-transfer) |
-| [Alphabet Image Predictions with a Neural Network](https://colab.research.google.com/drive/1p1kVAd_DoGgJPVwPsmsodoYQkvEfqcDO?usp=sharing) |
+| [EMNIST Image Prediction with PyTorch](https://colab.research.google.com/drive/1p1kVAd_DoGgJPVwPsmsodoYQkvEfqcDO?usp=sharing) |
 | [Text Sentiment Analysis](https://github.com/RishabSA/sentiment_analysis) |
 | [SaveMyTrip](https://neverfinite.com/savemytrip/) |
 </table>
