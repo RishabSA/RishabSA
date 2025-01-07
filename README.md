@@ -22,6 +22,8 @@
 
 </p>
 
+Welcome! I'm Rishab — a developer, student, and athlete with over five years of programming experience. My passion lies in building impactful projects, primarily using Python for AI models and JavaScript for web applications, but I also have extensive experience with other programming languages. In 2023, I won the Congressional App Challenge with TruthGuard, an AI-powered app, and had the honor of presenting it at Capitol Hill in Washington, D.C.
+
 ### 🖥️ Projects
 <table>
 
