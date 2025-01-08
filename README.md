@@ -32,6 +32,7 @@ Welcome! I'm Rishab — a developer, student, and athlete with over five years o
 | [TruthGuard](https://truthguard.app/) |
 | [ML Models Built from Scratch with Python](https://github.com/RishabSA/ML-models-from-scratch) |
 | [Visualizing Neural Networks Learning](https://github.com/RishabSA/visualizing-learning-neural-networks) |
+| [Recognizing Doodles with a Neural Network](https://github.com/RishabSA/recog-doodles) |
 | [Neural Style Transfer](https://github.com/RishabSA/neural-style-transfer) |
 | [EMNIST Image Prediction with PyTorch](https://colab.research.google.com/drive/1p1kVAd_DoGgJPVwPsmsodoYQkvEfqcDO?usp=sharing) |
 | [Text Sentiment Analysis](https://github.com/RishabSA/sentiment_analysis) |
