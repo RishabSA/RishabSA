@@ -30,6 +30,7 @@ Welcome! I'm Rishab — a developer, student, and athlete with over five years o
 |Title|
 |--|
 | [TruthGuard](https://truthguard.app/) |
+| [Advanced Deep Learning Models with PyTorch](https://github.com/RishabSA/advanced-deep-learning) |
 | [ML Models Built from Scratch with Python](https://github.com/RishabSA/ML-models-from-scratch) |
 | [Visualizing Neural Networks Learning](https://github.com/RishabSA/visualizing-learning-neural-networks) |
 | [Recognizing Doodles with a Neural Network](https://github.com/RishabSA/recog-doodles) |
