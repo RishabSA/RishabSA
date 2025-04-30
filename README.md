@@ -38,6 +38,8 @@ Welcome! I'm Rishab — a developer, student, and athlete with over five years o
 | [EMNIST Image Prediction with PyTorch](https://colab.research.google.com/drive/1p1kVAd_DoGgJPVwPsmsodoYQkvEfqcDO?usp=sharing) |
 | [Text Sentiment Analysis](https://github.com/RishabSA/sentiment_analysis) |
 | [SaveMyTrip](https://neverfinite.com/savemytrip/) |
+| [Python Math Projects](https://github.com/RishabSA/python-math-projects) |
+| [C++ Data Structures and Algorithms](https://github.com/RishabSA/data-structures-and-algorithms) |
 </table>
 
 ### 📄 Blog
