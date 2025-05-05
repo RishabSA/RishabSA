@@ -31,6 +31,10 @@ Welcome! I'm Rishab — a developer, student, and athlete with over five years o
 |--|
 | [TruthGuard](https://truthguard.app/) |
 | [Advanced Deep Learning Models with PyTorch](https://github.com/RishabSA/advanced-deep-learning) |
+| [Face Generation with Conditioned Latent Diffusion](https://huggingface.co/spaces/RishabA/celeba-latent-diffusion) |
+| [Image Captioning with Pytorch](https://huggingface.co/spaces/RishabA/image-captioning) |
+| [Spanish-to-English Translation with Transformers](https://huggingface.co/spaces/RishabA/spanish-to-english) |
+| [Sentiment Analysis with Transformers in PyTorch](https://huggingface.co/spaces/RishabA/sentiment-analysis) |
 | [ML Models Built from Scratch with Python](https://github.com/RishabSA/ML-models-from-scratch) |
 | [Visualizing Neural Networks Learning](https://github.com/RishabSA/visualizing-learning-neural-networks) |
 | [Recognizing Doodles with a Neural Network](https://github.com/RishabSA/recog-doodles) |
