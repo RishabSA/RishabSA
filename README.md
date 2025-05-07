@@ -45,7 +45,7 @@ Check out my website: | [Personal Website](https://rishabalagharu.com/) |
 | [Text Sentiment Analysis](https://github.com/RishabSA/sentiment_analysis) |
 | [SaveMyTrip](https://neverfinite.com/savemytrip/) |
 | [Python Math Projects](https://github.com/RishabSA/python-math-projects) |
-| [C++ Data Structures and Algorithms](https://github.com/RishabSA/data-structures-and-algorithms) |
+| [Data Structures and Algorithms with Python and C++](https://github.com/RishabSA/data-structures-and-algorithms) |
 </table>
 
 ### 📄 Blog
