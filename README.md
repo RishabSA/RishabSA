@@ -46,6 +46,7 @@ Check out my website: | [Personal Website](https://rishabalagharu.com/) |
 | [SaveMyTrip](https://neverfinite.com/savemytrip/) |
 | [Python Math Projects](https://github.com/RishabSA/python-math-projects) |
 | [Data Structures and Algorithms with Python and C++](https://github.com/RishabSA/data-structures-and-algorithms) |
+| [Minimax Chess Engine with Python](https://github.com/RishabSA/chess-engine) |
 </table>
 
 ### 📄 Blog
