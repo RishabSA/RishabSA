@@ -6,7 +6,7 @@
   -  **[Sketch2Graphviz](https://github.com/RishabSA/Sketch2Graphviz)**, a CLIP + Llama VLM fine-tuned with LoRA to convert sketches of graphs to Graphviz code
   -  **[Interpreting and Steering Over-refusal in LLMs with Refusal Tokens](https://github.com/RishabSA/interp-refusal-tokens)**, **🎉 Accepted to the 2025 NeurIPS workshop on Mechanistic Interpretability 🎉**
 
-- 🌱 **Winner of the 2023 Congressional App Challenge** with **TruthGuard**, an AI-powered fake news detector
+- 🌱 **Winner of the 2023 Congressional App Challenge** with **[TruthGuard](https://github.com/RishabSA/truth-guard-model)**, an AI-powered fake news detector
 
 - 👯 I'm looking to collaborate on **research projects/papers and impactful AI-powered projects.**
   - Feel free to reach out and discuss any ideas: **rishabsaia@gmail.com**
