@@ -1,68 +1,27 @@
-<p align="center">
-<a href="https://github.com/RishabSA">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=1000&pause=400&vCenter=true&multiline=true&width=750&height=175&lines=Rishab+Alagharu;Student+%7C+Software+Engineer;Machine+Learning+%7C+Deep+Learning" alt="Typing SVG" />
-</a>
-<br/>
+# Hi 👋, I'm Rishab Alagharu
 
-<a href="https://rishabalagharu.com/">
-    <img src="https://img.shields.io/badge/Website-rishabalagharu.com-red?style=flat-square">
-</a>  
-<a href="https://www.linkedin.com/in/rishab-alagharu/">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
-</a>
-<a href="mailto:rishabsaia@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
+### Software Engineer, Student, and ML Researcher
 
-<br/> 
+- 🔭 I'm currently working on **Sketch2Graphviz, a VLM fine-tuned with LoRA to convert sketches to Graphviz code, and Interpreting and Steering Over-refusal in LLMs with Refusal Tokens.**
 
-<a href="[https://github.com/drkostas](https://github.com/RishabSA)">
-    <img src="https://github-stats-alpha.vercel.app/api?username=rishabsa&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
+- 🌱 I'm currently learning **I am a winner of the 2023 Congressional App Challenge with my AI-powered fake news detector, TruthGuard.**
 
+- 👯 I'm looking to collaborate on **Research projects/papers and impactful AI-powered projects.**
+
+- 📫 How to reach me **rishabsaia@gmail.com**
+
+- 👨‍💻 All of my projects are available at **[https://rishabalagharu.com/](https://rishabalagharu.com/)**
+
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1Y0wz9PXGGIIKo0guBrG8lZby95UgwT5W/view?usp=sharing](https://drive.google.com/file/d/1Y0wz9PXGGIIKo0guBrG8lZby95UgwT5W/view?usp=sharing)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/RishabSA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RishabSA" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishab-alagharu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishab-alagharu" height="30" width="40" /></a>
+<a href="https://medium.com/@rishabalagharu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rishabalagharu" height="30" width="40" /></a>
+<a href="https://leetcode.com/RishabSA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="RishabSA" height="30" width="40" /></a>
 </p>
 
-Welcome! I'm Rishab — a developer, student, and athlete with over five years of programming experience. My passion lies in building impactful projects, primarily using Python for AI models and JavaScript for web applications, but I also have extensive experience with other programming languages. In 2023, I won the Congressional App Challenge with TruthGuard, an AI-powered app, and had the honor of presenting it at Capitol Hill in Washington, D.C.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unreal" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/> </a></p>
 
-Check out my website: | [Personal Website](https://rishabalagharu.com/) |
-
-### 🖥️ Projects
-<table>
-
-|Title|
-|--|
-| [TruthGuard](https://truthguard.app/) |
-| [Advanced Deep Learning Models with PyTorch](https://github.com/RishabSA/advanced-deep-learning) |
-| [Face Generation with Conditioned Latent Diffusion](https://huggingface.co/spaces/RishabA/celeba-latent-diffusion) |
-| [Image Captioning with Pytorch](https://huggingface.co/spaces/RishabA/image-captioning) |
-| [Spanish-to-English Translation with Transformers](https://huggingface.co/spaces/RishabA/spanish-to-english) |
-| [Sentiment Analysis with Transformers in PyTorch](https://huggingface.co/spaces/RishabA/sentiment-analysis) |
-| [ML Models Built from Scratch with Python](https://github.com/RishabSA/ML-models-from-scratch) |
-| [Visualizing Neural Networks Learning](https://github.com/RishabSA/visualizing-learning-neural-networks) |
-| [Recognizing Doodles with a Neural Network](https://github.com/RishabSA/recog-doodles) |
-| [Neural Style Transfer](https://github.com/RishabSA/neural-style-transfer) |
-| [EMNIST Image Prediction with PyTorch](https://colab.research.google.com/drive/1p1kVAd_DoGgJPVwPsmsodoYQkvEfqcDO?usp=sharing) |
-| [Text Sentiment Analysis](https://github.com/RishabSA/sentiment_analysis) |
-| [SaveMyTrip](https://neverfinite.com/savemytrip/) |
-| [Python Math Projects](https://github.com/RishabSA/python-math-projects) |
-| [Data Structures and Algorithms with Python and C++](https://github.com/RishabSA/data-structures-and-algorithms) |
-| [Minimax Chess Engine with Python](https://github.com/RishabSA/chess-engine) |
-</table>
-
-### 📄 Blog
-
-<a href="https://medium.com/@rishabalagharu">
-    <img src="https://img.shields.io/badge/Website-medium.com/@rishabalagharu-red?style=flat-square">
-</a>  
-
-<details>
-<summary>📈 My Github Stats 📈</summary>
-<br>
-My Github Stats
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabsa&theme=dracula) 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rishabsa&theme=dracula) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rishabsa&theme=dracula)
-
-</details>
