@@ -14,8 +14,6 @@
 
 - 👨‍💻 All of my projects are available at **[https://rishabalagharu.com/](https://rishabalagharu.com/)**
 
-- 📄 **[Resume](https://drive.google.com/file/d/1Y0wz9PXGGIIKo0guBrG8lZby95UgwT5W/view?usp=sharing)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/RishabSA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RishabSA" height="30" width="40" /></a>
