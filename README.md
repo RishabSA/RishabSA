@@ -3,8 +3,9 @@
 ### Software Engineer, Student, and ML Researcher
 
 - 🔭 I'm currently working on:
-  -  **[Sketch2Graphviz](https://github.com/RishabSA/Sketch2Graphviz)**, a CLIP + Llama VLM fine-tuned with LoRA to convert sketches of graphs to Graphviz code
   -  **[Interpreting and Steering Over-refusal in LLMs with Refusal Tokens](https://github.com/RishabSA/interp-refusal-tokens)**, **🎉 Accepted to the 2025 NeurIPS workshop on Mechanistic Interpretability 🎉**
+  -  **[Sketch2Graphviz](https://github.com/RishabSA/Sketch2Graphviz)**, a tool that allows you to convert sketches or images of graphs and flowcharts to proper Graphviz code using a **LoRA fine-tuned Llama 3.2 11B Vision** and **RAG** through a **vector DB** built with **PostgreSQL** and **PGVector**, making a previously tedious and manual task fast, effortless, and automated.
+  -  **[Automatic Differentiation](https://github.com/RishabSA/automatic-differentiation)**, a fully custom **C++** library with **Python bindings** for automatic differentiation, matrices, and neural networks.
 
 - 🎉 **Winner of the 2023 Congressional App Challenge** with **[TruthGuard](https://github.com/RishabSA/truth-guard-model)**, an AI-powered fake news detector
 
