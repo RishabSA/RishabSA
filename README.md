@@ -2,14 +2,14 @@
 
 # Hi 👋, I'm Rishab Alagharu
 
-**ML Researcher · Software Engineer · High School Junior**
+**ML Researcher · Software Engineer · Student**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rishabalagharu.com-0f172a?style=for-the-badge&logo=vercel&logoColor=white)](https://rishabalagharu.com/)
-[![Email](https://img.shields.io/badge/Email-rishabsaia%40gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabsaia@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-rishab--alagharu-0f172a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishab-alagharu)
-[![GitHub](https://img.shields.io/badge/GitHub-RishabSA-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishabSA)
-[![Medium](https://img.shields.io/badge/Medium-@rishabalagharu-0f172a?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rishabalagharu)
-[![LeetCode](https://img.shields.io/badge/LeetCode-RishabSA-0f172a?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/RishabSA)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rishabalagharu.com-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white)](https://rishabalagharu.com/)
+[![Email](https://img.shields.io/badge/Email-rishabsaia%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabsaia@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rishab--alagharu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishab-alagharu)
+[![GitHub](https://img.shields.io/badge/GitHub-RishabSA-1D4ED8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishabSA)
+[![Medium](https://img.shields.io/badge/Medium-@rishabalagharu-1D4ED8?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rishabalagharu)
+[![LeetCode](https://img.shields.io/badge/LeetCode-RishabSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/RishabSA)
 
 </div>
 
@@ -17,37 +17,12 @@
 
 ## 🔬 Projects
 
-### 📄 From Refusal Tokens to Refusal Control
-> *Lead Author · Under review at ICML 2026*
-> **🎉 Accepted to the NeurIPS 2025 Workshop on Mechanistic Interpretability 🎉**
-
-Discovering and steering category-specific refusal directions in LLMs. We extract categorical steering vectors from post-MLP residual-stream activations in REFUSE-LLAMA (LLaMA-3 8B), achieving **−13.70% over-refusal** and **+14.17% harmful refusal correction** with zero capability degradation across MMLU, HellaSwag, PIQA, and TruthfulQA.
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RishabSA/interp-refusal-tokens)
-
----
-
-### 🖊️ Sketch2Graphviz
-Convert sketches and images of graphs/flowcharts into proper Graphviz code — making a previously tedious manual task instant and automated.
-
-- **LoRA fine-tuned Llama 3.2 11B Vision** for diagram understanding
-- **RAG pipeline** backed by a **PostgreSQL + PGVector** vector database
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RishabSA/Sketch2Graphviz)
-
----
-
-### ⚙️ AutoNeuroNet
-A fully custom **C++ library with Python bindings** for automatic differentiation, matrix operations, and neural networks — built from scratch.
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RishabSA/AutoNeuroNet)
-
----
-
-### 🔍 GitLensAI
-An AI-powered Git intelligence tool that brings natural language understanding to your repository history — commit analysis, code archaeology, and developer insights without leaving the terminal.
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RishabSA/gitlensai)
+| | Project | Description |
+|---|---|---|
+| 📄 | **[From Refusal Tokens to Refusal Control](https://github.com/RishabSA/interp-refusal-tokens)** | Categorical steering vectors for LLM refusal control. −13.70% over-refusal, +14.17% harmful refusal on LLaMA-3 8B. 🎉 NeurIPS 2025 MechInterp Workshop · Under review ICML 2026 |
+| 🖊️ | **[Sketch2Graphviz](https://github.com/RishabSA/Sketch2Graphviz)** | Converts sketches/images of graphs into Graphviz code via LoRA fine-tuned Llama 3.2 11B Vision + RAG over a PostgreSQL/PGVector vector DB |
+| ⚙️ | **[AutoNeuroNet](https://github.com/RishabSA/AutoNeuroNet)** | Custom C++ library with Python bindings for autograd, matrix ops, and neural networks — built from scratch |
+| 🔍 | **[GitLensAI](https://github.com/RishabSA/gitlensai)** | AI-powered Git intelligence tool for natural language querying of repository history, commit analysis, and developer insights |
 
 ---
 
@@ -55,7 +30,7 @@ An AI-powered Git intelligence tool that brings natural language understanding t
 
 - 🥇 **Winner — 2023 Congressional App Challenge** (Georgia's 5th District) with [TruthGuard](https://github.com/RishabSA/truth-guard-model), an AI-powered fake news detector
 - 🧪 **ML Researcher** at Emory University (Prof. Liang Zhao) — Latent Graph World Models
-- 🤝 **Co-founder & Co-president** of [Science for Survival](https://scienceforsurvival.org), a 501(c)(3) that has reached **700+ students** across the US, Nigeria, and Shanghai
+- 🤝 **Co-founder & Co-president** of [Science for Survival](https://scienceforsurvival.org), a 501(c)(3) that has reached **1000+ students** across the world.
 
 ---
 
