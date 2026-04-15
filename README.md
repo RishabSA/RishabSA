@@ -15,7 +15,7 @@
 
 ---
 
-## 🔬 Projects
+## 💻 Projects
 
 | | Project | Description |
 |---|---|---|
@@ -29,7 +29,7 @@
 ## 🏆 Highlights
 
 - 🥇 **Winner — 2023 Congressional App Challenge** (Georgia's 5th District) with [TruthGuard](https://github.com/RishabSA/truth-guard-model), an AI-powered fake news detector
-- 🧪 **ML Researcher** at Emory University (Prof. Liang Zhao) — Latent Graph World Models
+- 🔬 **ML Researcher** at Emory University (Prof. Liang Zhao) — Latent Graph World Models
 - 🤝 **Co-founder & Co-president** of [Science for Survival](https://scienceforsurvival.org), a 501(c)(3) that has reached **1000+ students** across the world.
 
 ---
