@@ -22,7 +22,8 @@
 | 📄 | **[From Refusal Tokens to Refusal Control](https://github.com/RishabSA/interp-refusal-tokens)** | Categorical steering vectors for LLM refusal control. −13.70% over-refusal, +14.17% harmful refusal on LLaMA-3 8B. 🎉 NeurIPS 2025 MechInterp Workshop · Under review ICML 2026 |
 | 🖊️ | **[Sketch2Graphviz](https://github.com/RishabSA/Sketch2Graphviz)** | Converts sketches/images of graphs into Graphviz code via LoRA fine-tuned Llama 3.2 11B Vision + RAG over a PostgreSQL/PGVector vector DB |
 | ⚙️ | **[AutoNeuroNet](https://github.com/RishabSA/AutoNeuroNet)** | Custom C++ library with Python bindings for autograd, matrix ops, and neural networks — built from scratch |
-| 🔍 | **[GitLensAI](https://github.com/RishabSA/gitlensai)** | AI-powered Git intelligence tool for natural language querying of repository history, commit analysis, and developer insights |
+| 🔍 | **[GitLensAI](https://github.com/RishabSA/GitLensAI)** | AI-powered Git intelligence tool for natural language querying of repository history, commit analysis, and developer insights |
+| 📰 | **[TruthGuard](https://github.com/RishabSA/TruthGuard)** | AI-powered misinformation and fake news detection, empowering you to ensure the trustworthiness of the information you consume |
 
 ---
 
