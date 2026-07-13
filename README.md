@@ -19,18 +19,20 @@
 
 | | Project | Description |
 |---|---|---|
-| 📄 | **[From Refusal Tokens to Refusal Control](https://github.com/RishabSA/interp-refusal-tokens)** | Categorical steering vectors for LLM refusal control. −13.70% over-refusal, +14.17% harmful refusal on LLaMA-3 8B. 🎉 NeurIPS 2025 MechInterp Workshop · Under review ICML 2026 |
-| 🖊️ | **[Sketch2Graphviz](https://github.com/RishabSA/Sketch2Graphviz)** | Converts sketches/images of graphs into Graphviz code via LoRA fine-tuned Llama 3.2 11B Vision + RAG over a PostgreSQL/PGVector vector DB |
-| ⚙️ | **[AutoNeuroNet](https://github.com/RishabSA/AutoNeuroNet)** | Custom C++ library with Python bindings for autograd, matrix ops, and neural networks — built from scratch |
+| 📄 | **[From Refusal Tokens to Refusal Control](https://github.com/RishabSA/interp-refusal-tokens)** | Categorical steering vectors for fine-grained LLM refusal control. −13.7% over-refusal, +14.2% harmful-prompt refusal on LLaMA-3 8B with zero capability degradation. 🎉 NeurIPS 2025 MechInterp Workshop · Under review ICML 2026 |
+| 💠 | **[WaferDetect](https://github.com/RishabSA/WaferDetect)** | Wafer-map defect-detection platform for semiconductor fabs — fine-tuned YOLO26x-seg segmenting 21 overlapping defect classes (0.852 mask mAP@50), with Poisson/Stapper yield modeling, per-defect cost estimation, and KLARF import/export |
+| 🖊️ | **[Sketch2Graphviz](https://github.com/RishabSA/Sketch2Graphviz)** | Converts hand-drawn graph sketches into executable Graphviz DOT code via LoRA fine-tuned Llama 3.2 11B Vision + RAG over a PostgreSQL/PGVector vector DB — 97.96% render success rate |
+| ⚙️ | **[AutoNeuroNet](https://github.com/RishabSA/AutoNeuroNet)** | Reverse-mode automatic differentiation engine and neural network library built from scratch in C++ — published to PyPI with PyBind11 bindings and NumPy interoperability |
 | 🔍 | **[GitLensAI](https://github.com/RishabSA/GitLensAI)** | AI-powered Git intelligence tool for natural language querying of repository history, commit analysis, and developer insights |
-| 📰 | **[TruthGuard](https://github.com/RishabSA/TruthGuard)** | AI-powered misinformation and fake news detection, empowering you to ensure the trustworthiness of the information you consume |
+| 📰 | **[TruthGuard](https://github.com/RishabSA/TruthGuard)** | AI-powered misinformation and fake news detection with a fine-tuned DistilBERT classifier, FastAPI backend, React web app, and published Chrome extension |
 
 ---
 
 ## 🏆 Highlights
 
+- 📄 **First author** of a paper on LLM safety and refusal steering accepted to the **NeurIPS 2025 Mechanistic Interpretability Workshop**, currently under review at ICML 2026
 - 🥇 **Winner — 2023 Congressional App Challenge** (Georgia's 5th District) with [TruthGuard](https://github.com/RishabSA/truth-guard-model), an AI-powered fake news detector
-- 🔬 **ML Researcher** at Emory University (Prof. Liang Zhao) — Latent Graph World Models
+- 🔬 **ML Researcher** at Emory University (Dr. Liang Zhao) — Latent Graph World Models · **Research Contributor** at CMU LTI's WAVLab (Dr. Shinji Watanabe)
 - 🤝 **Co-founder & Co-president** of [Science for Survival](https://scienceforsurvival.org), a 501(c)(3) that has reached **1000+ students** across the world.
 
 ---
@@ -41,9 +43,11 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![PyTorch Geometric](https://img.shields.io/badge/PyTorch%20Geometric-3C2179?style=flat-square&logo=pyg&logoColor=white)](https://pyg.org/)
 [![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/)
+[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
@@ -62,6 +66,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
+[![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactnative.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
 
