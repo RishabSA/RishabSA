@@ -4,7 +4,7 @@
 
 **ML Researcher · Software Engineer · Student**
 
-[![Website](https://img.shields.io/badge/Portfolio-rishabalagharu.com-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white)](https://rishabalagharu.com/)
+[![Website](https://img.shields.io/badge/Website-rishabalagharu.com-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white)](https://rishabalagharu.com/)
 [![Email](https://img.shields.io/badge/Email-rishabsaia%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabsaia@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rishab--alagharu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishab-alagharu)
 [![GitHub](https://img.shields.io/badge/GitHub-RishabSA-1D4ED8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishabSA)
