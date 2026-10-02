@@ -4,11 +4,12 @@
 
 **ML Researcher · Software Engineer · Student**
 
-[![Website](https://img.shields.io/badge/Website-rishabalagharu.com-1D4ED8?style=for-the-badge&logo=vercel&logoColor=white)](https://rishabalagharu.com/)
+[![Website](https://img.shields.io/badge/Website-rishabalagharu.com-0E767C?style=for-the-badge&logo=netlify&logoColor=white)](https://rishabalagharu.com/)
 [![Email](https://img.shields.io/badge/Email-rishabsaia%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabsaia@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Rishab%20Alagharu-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=uCJHs-YAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rishab--alagharu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishab-alagharu)
-[![GitHub](https://img.shields.io/badge/GitHub-RishabSA-1D4ED8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishabSA)
-[![Medium](https://img.shields.io/badge/Medium-@rishabalagharu-1D4ED8?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rishabalagharu)
+[![GitHub](https://img.shields.io/badge/GitHub-RishabSA-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RishabSA)
+[![Medium](https://img.shields.io/badge/Medium-@rishabalagharu-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@rishabalagharu)
 [![LeetCode](https://img.shields.io/badge/LeetCode-RishabSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/RishabSA)
 
 </div>
@@ -19,21 +20,22 @@
 
 | | Project | Description |
 |---|---|---|
-| 📄 | **[From Refusal Tokens to Refusal Control](https://github.com/RishabSA/interp-refusal-tokens)** | Categorical steering vectors for fine-grained LLM refusal control. −13.7% over-refusal, +14.2% harmful-prompt refusal on LLaMA-3 8B with zero capability degradation. 🎉 NeurIPS 2025 MechInterp Workshop · Under review ICML 2026 |
-| 💠 | **[WaferDetect](https://github.com/RishabSA/WaferDetect)** | Wafer-map defect-detection platform for semiconductor fabs — fine-tuned YOLO26x-seg segmenting 21 overlapping defect classes (0.852 mask mAP@50), with Poisson/Stapper yield modeling, per-defect cost estimation, and KLARF import/export |
-| 🖊️ | **[Sketch2Graphviz](https://github.com/RishabSA/Sketch2Graphviz)** | Converts hand-drawn graph sketches into executable Graphviz DOT code via LoRA fine-tuned Llama 3.2 11B Vision + RAG over a PostgreSQL/PGVector vector DB — 97.96% render success rate |
-| ⚙️ | **[AutoNeuroNet](https://github.com/RishabSA/AutoNeuroNet)** | Reverse-mode automatic differentiation engine and neural network library built from scratch in C++ — published to PyPI with PyBind11 bindings and NumPy interoperability |
-| 🔍 | **[GitLensAI](https://github.com/RishabSA/GitLensAI)** | AI-powered Git intelligence tool for natural language querying of repository history, commit analysis, and developer insights |
+| 📄 | **[Network World Models](https://rishabsa.github.io/NetworkWorldModel/)** | A world model that learns how interventions spread through a network, used as a fast evaluator for a coding agent that designs network algorithms. Beats the strongest baseline in 138 of 141 settings across 8 tasks, with up to 14.5× faster rollouts than Monte Carlo. *Under review at ICLR 2027* |
+| 📄 | **[From Refusal Tokens to Refusal Control](https://rishabsa.github.io/interp-refusal-tokens/)** | Categorical steering vectors for fine-grained LLM refusal control. −13.7% over-refusal and +14.2% harmful-prompt refusal on Llama 3 8B with zero capability degradation. 🎉 *NeurIPS 2025 MechInterp Workshop · COLM 2026 Actionable Interpretability Workshop* 🎉 |
+| 💠 | **[WaferDetect](https://github.com/RishabSA/WaferDetect)** | Wafer-map defect detection platform for semiconductor fabs. A fine-tuned YOLO26x-seg model segments 21 overlapping defect classes (0.852 mask mAP@50), with Poisson/Stapper yield modeling, per-defect cost estimation, and KLARF import/export |
+| 🖊️ | **[Sketch2Graphviz](https://github.com/RishabSA/Sketch2Graphviz)** | Converts hand-drawn graph sketches into executable Graphviz DOT code using a LoRA fine-tuned Llama 3.2 11B Vision and RAG over a PostgreSQL/PGVector vector database, with a 97.96% render success rate |
+| ⚙️ | **[AutoNeuroNet](https://github.com/RishabSA/AutoNeuroNet)** | Reverse-mode automatic differentiation engine and neural network library built from scratch in C++, published to PyPI with PyBind11 bindings and NumPy interoperability |
 | 📰 | **[TruthGuard](https://github.com/RishabSA/TruthGuard)** | AI-powered misinformation and fake news detection with a fine-tuned DistilBERT classifier, FastAPI backend, React web app, and published Chrome extension |
 
 ---
 
 ## 🏆 Highlights
 
-- 📄 **First author** of a paper on LLM safety and refusal steering accepted to the **NeurIPS 2025 Mechanistic Interpretability Workshop**, currently under review at ICML 2026
-- 🥇 **Winner — 2023 Congressional App Challenge** (Georgia's 5th District) with [TruthGuard](https://github.com/RishabSA/truth-guard-model), an AI-powered fake news detector
-- 🔬 **ML Researcher** at Emory University (Dr. Liang Zhao) — Latent Graph World Models · **Research Contributor** at CMU LTI's WAVLab (Dr. Shinji Watanabe)
-- 🤝 **Co-founder & Co-president** of [Science for Survival](https://scienceforsurvival.org), a 501(c)(3) that has reached **1000+ students** across the world.
+- 📄 **First author** of *Network World Models as Environments for Algorithm Design on Complex Systems*, under review at **ICLR 2027** · [arXiv:2610.01048](https://arxiv.org/abs/2610.01048)
+- 📄 **First author** of a paper on LLM safety and refusal steering, accepted to the **NeurIPS 2025 Mechanistic Interpretability Workshop** and the **COLM 2026 Actionable Interpretability Workshop** · [arXiv:2603.13359](https://arxiv.org/abs/2603.13359)
+- 🥇 **Winner of the 2023 Congressional App Challenge** (Georgia's 5th District) with [TruthGuard](https://github.com/RishabSA/TruthGuard), an AI-powered fake news detector
+- 🔬 **ML Researcher** at Emory University (Dr. Liang Zhao), working on network world models · **Research Contributor** at CMU LTI's WAVLab (Dr. Shinji Watanabe), working on contextual biasing for speech recognition
+- 🤝 **Co-founder & Executive Director** of [Science for Survival](https://scienceforsurvival.org), a 501(c)(3) nonprofit that has impacted **700+ students** across 3 continents
 
 ---
 
@@ -74,6 +76,6 @@
 
 <div align="center">
 
-*Open to research collaborations and impactful AI projects — reach out anytime.*
+*Open to research collaborations and impactful AI projects. Reach out anytime.*
 
 </div>
