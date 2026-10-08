@@ -2,8 +2,6 @@
 
 # Hi 👋, I'm Rishab Alagharu
 
-**ML Researcher · Software Engineer · Student**
-
 [![Website](https://img.shields.io/badge/Website-rishabalagharu.com-0E767C?style=for-the-badge&logo=netlify&logoColor=white)](https://rishabalagharu.com/)
 [![Email](https://img.shields.io/badge/Email-rishabsaia%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabsaia@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Rishab%20Alagharu-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=uCJHs-YAAAAJ&hl=en)
